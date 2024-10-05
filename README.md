@@ -1,8 +1,8 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/badge/repo_size-20_MB-indigo)
-  ![GitHub stars](https://img.shields.io/github/stars/ranitderia/mindease?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ranitderia/mindease?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/ItsPrabhaTS/mindease?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ItsPrabhaTS/mindease?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/DeriaRanit?style=social)](https://twitter.com/intent/follow?screen_name=DeriaRanit)
   [![Twitter Follow](https://img.shields.io/twitter/follow/me0Prabhat?style=social)](https://x.com/me0Prabhat)
 
@@ -16,8 +16,9 @@
   MindEase - Innovative Mental Health Chatbot: Powered by IBM WatsonX and AI Technology.<br />
   
   Developed by <strong>Team THE WIND</strong>.<br />
-  Lead Developer: <a href="https://github.com/RanitDERIA"><i>@RanitDERIA</i></a><br />
-  Collaborator: <a href="https://github.com/ItsPrabhaTS"><i>@ItsPrabhatTS</i></a>
+   Frontend & Web Development by: <a href="https://github.com/RanitDERIA"><i>@RanitDERIA</i></a><br />
+   Chatbot & Machine Learning by: <a href="https://github.com/ItsPrabhaTS"><i>@ItsPrabhatTS</i></a>
+
 
   <a href="https://mindace.netlify.app/"><strong>➥ Live Demo</strong></a>
 
